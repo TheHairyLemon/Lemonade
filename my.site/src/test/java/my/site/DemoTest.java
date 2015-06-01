@@ -11,5 +11,11 @@ public class DemoTest {
 		BooleanTest demo = new BooleanTest();
 		assertTrue(demo.bool());
 	}
+
+	@Test
+	public void shouldreturnTrue(){
+		BooleanTest demo = new BooleanTest();
+		assertTrue(demo.bool2());
+	}
 	
 }
