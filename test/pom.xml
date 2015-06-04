@@ -22,4 +22,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+    <scm>
+    <connection>scm:git:git@github.com:TheHairyLemon/Lemonade/Test.git</connection>
+    <developerConnection>scm:git:git@github.com:TheHairyLemon/Lemonade/Test.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>http://github.com/TheHairyLemon/Lemonade/Test</url>
+  </scm>
+  
 </project>
