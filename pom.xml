@@ -16,10 +16,6 @@
   
   
   <url>http://maven.apache.org</url>
-  
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
