@@ -45,5 +45,12 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+  
+    <scm>
+    <connection>scm:git:git@github.com:TheHairyLemon/Lemonade.git</connection>
+    <developerConnection>scm:git:git@github.com:TheHairyLemon/Lemonade.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>http://github.com/TheHairyLemon/Lemonade</url>
+  </scm>
 
 </project>
